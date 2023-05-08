@@ -1,0 +1,131 @@
+header{
+    background-color:  	chocolate;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+.containers{
+    border: solid 2px;
+    background-color:chocolate ;
+    border:chocolate;
+    height: 2.5px;
+    width: 80%;
+    /* color:white; */
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+
+.nav{
+    display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color: chocolate;
+}
+
+body{
+    background-color: black;
+}
+
+.box {
+    width: 300px;
+    border: 3px solid chocolate;
+    padding: 5px;
+    margin: 20px;
+  }
+
+ button{
+    background-color: chocolate;
+    color:bisque
+ }
+
+ .fa {
+    padding: 30px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: chocolate
+  }
+
+/* .glyphicon{
+  padding: ;
+} */
+
+
+  .vl {
+    border-left: 1px solid chocolate;
+    height: 720px;
+    
+  }
+
+  li{
+    font-size: 18px;
+  }
+
+  .overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    opacity: 7;
+    background-color: white;
+  }
+
+  
+  #mealplan{
+    color: white;
+    text-align: left;
+    text-align: justify;
+  }
+  hr.line{
+    border: 1px solid chocolate;
+  }
+
+  .fline{
+    border: 1px solid chocolate;
+  }
+
+  td{
+    font-size: 19px;
+  }
+
+  
+
+
+        /* .image {
+            opacity: 2;
+         
+            position: absolute;
+            width: 20%;
+
+
+        }
+
+        .container:hover .image {
+            opacity: 0.3;
+        }
+    */
